@@ -1,0 +1,11 @@
+{
+  "name": "whatsplaying",
+  "version": "1.0.0",
+  "description": "what's playing on my spotify?",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nathanielbelen",
+  "license": "ISC"
+}
